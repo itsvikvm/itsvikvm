@@ -1,10 +1,10 @@
-<img width='100' src="https://64.media.tumblr.com/fb118a94d5864df0e43cb6e23b5c27fc/tumblr_pqd5x2s9WF1uvq3s5o1_500.gifv"/>
+<img width='700' src="https://media.tenor.com/41EKpijy7dEAAAAC/anime-nature.gif"/>
 
 ## Hi there 👽
 
 I have no idea and understanding of how things work, but there are some projects for my own purposes and educational projects for BNBChain Bootcamp.
 
-Stay tuned for exciting things coming decade.
+Stay tuned for developments in this field over the next decade.
 
 ### Working on
 
