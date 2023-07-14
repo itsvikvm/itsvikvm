@@ -1,3 +1,6 @@
+<meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/5814919?s=400&amp;v=4" />
+<meta property="og:image" content="https://avatars3.githubusercontent.com/u/5814919?s=400&amp;v=4" />
+
 <img width='700' src="https://media.tenor.com/41EKpijy7dEAAAAC/anime-nature.gif"/>
 
 ## Hi there 👽
