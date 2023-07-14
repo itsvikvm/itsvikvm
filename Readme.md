@@ -1,4 +1,4 @@
-<div class="meta_for_parser tablespecs" style="visibility:hidden">{"dataname":"environment","colvar":"varname","colval":"value"}</div>
+<div class="meta_for_parser tablespecs" style="visibility:hidden" sad</div>
 
 <img width='700' src="https://media.tenor.com/41EKpijy7dEAAAAC/anime-nature.gif"/>
 
