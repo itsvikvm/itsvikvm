@@ -1,5 +1,3 @@
-<meta property="og:title" content="The Rock" />
-
 <img width='700' src="https://media.tenor.com/41EKpijy7dEAAAAC/anime-nature.gif"/>
 
 ## Hi there 👽
