@@ -24,8 +24,6 @@ Stay tuned for developments in this field over the next decade.
   </a>
 </div>
 
-<img width='400' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vikvm" />
-
 **I hate working with**
 
 <div display="flex">
